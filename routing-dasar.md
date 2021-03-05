@@ -60,11 +60,11 @@ app.listen(3000, ()=>{
 ```
 
 Lalu kita coba jalan kan menggunakan postman, maka hasilnya akan seperti ini :
-![](images/01.jpg)
+![](images/01.JPG)
 
 Akan tetapi, jika kita mengakses routing namun methodnya tidak sesuai dengan yang didefinisikan maka akan muncul error Cannot GET [path route].
 Misalnya mengakses route /post namun methodnya menggunakan GET.
-![](images/02.jpg)
+![](images/02.JPG)
 
 Namun jika kita menggunakan route yang sama dengan yang didefinisikan maka hasilnya akan seperti ini :
-![](images/03.jpg)
+![](images/03.JPG)
