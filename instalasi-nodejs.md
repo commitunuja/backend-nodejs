@@ -9,7 +9,7 @@ Sebaiknya kamu memilih versi LTS yang memiliki dukungan lebih lama. Silakan ikut
 
 kemudian untuk mengecek apakah nodejs kita sudah terinstall apa belum, cukup buka terminal lalu ketikkan perintah berikut
 ```
-node -v
+node -v 
 ```
 setelah itu tekan enter maka akan tampil seperti yang dibawah ini
 
